@@ -89,10 +89,17 @@ Images in html
 During this submission, I struggled the most with the optional task of building a timer. As I have never used html before, I started out very confused about how to add a rectangle into the interface to contain the time. This was a problem that I managed to overcome easily by searching online. However, I struggled to figure out how to use setInterval() and clearInterval() to represent time. Luckily, I managed to find code online of a timer, and using that as a reference, I created the timer that counted down from 18 seconds. What followed was a struggle to figure out where to put the timer and how to reset it after the player makes a correct guess. At first, I just tried to add it according to where I thought it would fit, however, it just resulted in the timer counting down very quickly and continuing from where it stopped in the previous guess. I soon realized that clearInterval() did not restart the timer but instead paused it, which was why I had to search online on how to reset the time. Furthermore, there was also the problem of the timer running after the game had ended. To solve this problem, I decided to draw a flow chart, similar to the one provided in the task guidelines, and figured out where to add the startTime() function. This made my understanding of the flow of the code much better and I also managed to find a bug where I called the startTime() function twice in a row, which was a reason for why it would sometimes count down much faster than at 1 second intervals. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+When we approach web development, is it usually better to plan out the layout beforehand in other tools like Figma? If so, how can we effectively transfer what we visualize into reality?
+Other than Javascript, CSS, HTML, what are other programming languages that web developers should understand well to complete web development. 
+In terms of frontend web development, how does one design an effective User interface? Since for this project we mainly did buttons, and headings with basic colors, how should we improve on the design to make the game more visually appealing to capture user attention, and more easy and enjoyable to play?
+
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+Firstly, I will try to add a different audio for each button since that was one of the optional tasks that I did not have time to complete.
+Secondly, I would add a few symbols to represent the number of lives the player has. I realized while playing the game that right now the player has to remember how many mistakes they have made so far. Three symbols that represent the lives could disappear one by one with every mistake that the player makes. 
+I would also try to shorten the times taken for the player to make their decision to increase the difficulty as the game progresses. To make the interface more engaging, when the time is running out, I would make the timer flash to increase the intensity of the game. 
+
 
 
 
