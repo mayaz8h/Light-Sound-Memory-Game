@@ -6,7 +6,7 @@ Submitted by: **Maya Zheng**
 
 Time spent: **6** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (insert your link here, should start with https://glitch.com/edit/#!/knowledgeable-grizzled-abacus?path=README.md%3A1%3A0)
 
 ## Required Functionality
 
@@ -39,10 +39,22 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](http://g.recordit.co/U5RmEyj6Li.gif) 
-![](http://g.recordit.co/U5RmEyj6Li.gif)
-![](gif3-link-here)
-![](gif4-link-here)
+
+Start, stop buttons. Winning the game. 
+
+![](http://g.recordit.co/kdkE7Ag7rh.gif) 
+
+Losing after 3 strikes
+
+![](http://g.recordit.co/FgeMd718Ec.gif)
+
+Computer picks a different pattern each time the game is played
+
+![](http://g.recordit.co/Nrd48zoamT.gif)
+
+Losing beacuse time ran out
+
+![](http://g.recordit.co/xMMbEr40yB.gife)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -57,20 +69,19 @@ Images for Optional Tasks sourced from
 - <a href="https://www.flaticon.com/free-icons/disco-ball" title="disco ball stickers">Disco ball stickers created by smashingstocks - Flaticon</a>
 
 Understanding how to use setInterval and clearInterval
-- <a href = "https://www.w3schools.com/jsref/met_win_clearinterval.asp"></a>
-- <a href = "https://www.w3schools.com/jsref/met_win_setinterval.asp"></a>
-- <a href = "https://tousu.in/?qa=492949/" title = "timer clarifications"></a>
+- https://www.w3schools.com/jsref/met_win_clearinterval.asp
+- https://www.w3schools.com/jsref/met_win_setinterval.asp
+- https://tousu.in/?qa=492949/" title = "timer clarifications
 
 Understanding text in CSS
-- <a href = "https://www.w3schools.com/css/css_text_align.asp"></a>
-- <a href = "https://www.w3schools.com/css//css_font_websafe.asp"></a>
+- https://www.w3schools.com/css/css_text_align.asp
+- https://www.w3schools.com/css//css_font_websafe.asp
 
 CSS colors
-- <a href = "https://www.rapidtables.com/web/css/css-color.html#cyan"></a>
-- <a href = ""></a>
+- https://www.rapidtables.com/web/css/css-color.html#cyan
 
 Images in html
-- <a href = "https://www.w3schools.com/tags/tag_img.asp"></a>
+- https://www.w3schools.com/tags/tag_img.asp
 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
