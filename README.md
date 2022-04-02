@@ -42,19 +42,19 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 Start, stop buttons. Winning the game. 
 
-![](http://g.recordit.co/kdkE7Ag7rh.gif) 
+![](http://g.recordit.co/sLxStsqzNE.gif) 
 
 Losing after 3 strikes
 
-![](http://g.recordit.co/FgeMd718Ec.gif)
+![](http://g.recordit.co/tsYNiv246x.gif)
 
 Computer picks a different pattern each time the game is played
 
-![](http://g.recordit.co/Nrd48zoamT.gif)
+![](http://g.recordit.co/1xPA3XwzqC.gif)
 
 Losing beacuse time ran out
 
-![](http://g.recordit.co/xMMbEr40yB.gife)
+![](http://g.recordit.co/Bdc5W50uIK.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
