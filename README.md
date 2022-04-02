@@ -97,7 +97,7 @@ Images in html
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/7593a40e19e5451d9d360962e8541762)
 
 
 ## License
